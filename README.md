@@ -6,12 +6,14 @@ Welcome to the repository for my personal website! This site serves as a digital
 - Home
 - About
 - Portfolio
+- Contact
 
 ## General info
 
 - **Home:** Gives visitors a quick introduction to who I am. 
 - **About Me:** Get to know a bit more about me, my background, and my passions.
 - **Portfolio:** A showcase of my projects, accomplishments, and what I've been working on.
+- **Contact:** A contact form
 
 ## Technologies Used
 
